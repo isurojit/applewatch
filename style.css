@@ -304,6 +304,15 @@ a:hover{
     #hero{
         font-size: x-large;
     }
+    #space{
+        transform: translateX(8%);
+    }
+    #nike{
+        transform: translateX(8%);
+    }
+    #hermes{
+        transform: translateX(8%);
+    }
     #email{
         width: 60%;
         margin-top: 5%;
