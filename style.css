@@ -21,7 +21,6 @@ ul{
     text-decoration: none;
 }
 li{
-    display: inline;
     padding: .7%;
     float: right;
     font-size: medium;
