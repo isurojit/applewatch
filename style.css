@@ -252,6 +252,8 @@ a:hover{
     }
     #m-img{
         transform: translateY(25%);
+        position: relative;
+        right: 25%;
     }
     .intro{
         text-align: center;
