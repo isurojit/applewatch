@@ -38,6 +38,7 @@ li a:hover{
 #m-img{
     max-width: 100%;
     height: auto;
+    padding-left: 25%;
 }
 .intro{
     text-align: center;
